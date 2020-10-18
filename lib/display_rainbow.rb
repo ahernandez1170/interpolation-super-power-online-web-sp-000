@@ -6,7 +6,7 @@ G = ["green"]
 B = ["blue"]
 I = ["indigo"]
 V = ["violet"]
-def display_rainbow (colors)
+def display_rainbow ()
 puts "R", "O", "Y", "G", "B", "I", "V"
 end
 display_rainbow
